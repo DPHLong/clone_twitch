@@ -28,7 +28,7 @@ A clone Twitch App - Works on Android, iOS and Web
 - Copy files in lib and pubspec.yaml into your app-folder
 - Don't forget to read agora_rtc_engine's requirement on pub.dev
 - Create Agora Test Account and follow the instruction on www.agora.io
-- 
+- Install GO and follow instruction on go.dev
 
 # Tech Used
 
